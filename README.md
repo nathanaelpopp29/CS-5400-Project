@@ -23,5 +23,5 @@ Their reaction times and correct incorrect responses are stored in the 'n_back_r
 Due to the inadvertent receipt of certain tags during experiments, the correct and unified tags are also included as 'tags.csv'.
 
 
-## Paper 
+## Original Paper and Database
 https://physionet.org/content/brain-wearable-monitoring/1.0.0/#files-panel
