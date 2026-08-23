@@ -1,0 +1,4 @@
+model,accuracy,auc,class_names,f1_macro
+Decision Tree,0.6056459212520998,0.8715288798062657,"['AI_Music', 'Exciting_Music', 'No_Music', 'Relaxing_Music']",0.6390431764622863
+CNN,0.6724702990577632,0.8406901724819389,"['AI_Music', 'Exciting_Music', 'No_Music', 'Relaxing_Music']",0.5394294259560215
+Naive Bayes,0.47961650346212154,0.6111501582763523,"['AI_Music', 'Exciting_Music', 'No_Music', 'Relaxing_Music']",0.24586144443659527

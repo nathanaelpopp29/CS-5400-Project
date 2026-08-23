@@ -1,0 +1,11 @@
+percept_t,pred_label,confidence,uncertainty,action_type,recommendation
+0.0,Exciting_Music,0.9935,0.0562,alert,Switch to relaxing music to reduce arousal.
+2.0,Exciting_Music,0.9999,0.0015,alert,Switch to relaxing music to reduce arousal.
+4.0,AI_Music,0.9999,0.0014,classify,
+6.0,AI_Music,1.0,0.0006,classify,
+8.0,AI_Music,1.0,0.0,classify,
+10.0,AI_Music,0.9873,0.098,classify,
+12.0,AI_Music,0.9998,0.0034,classify,
+14.0,AI_Music,0.9999,0.0018,classify,
+16.0,AI_Music,0.9996,0.0051,classify,
+18.0,AI_Music,0.9999,0.001,classify,

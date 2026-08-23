@@ -1,0 +1,4 @@
+model,accuracy,auc,class_names,f1_macro
+Decision Tree,0.46750309241915533,0.7367772806015175,"['Coffee', 'No_Actuation', 'Perfume']",0.4662964054935692
+CNN,0.8372503975967486,0.8875405868814122,"['Coffee', 'No_Actuation', 'Perfume']",0.6055029513349869
+Naive Bayes,0.3481180420569005,0.6325630872919689,"['Coffee', 'No_Actuation', 'Perfume']",0.27746551170721445

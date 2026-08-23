@@ -1,0 +1,11 @@
+percept_t,pred_label,confidence,uncertainty,action_type,recommendation
+0.0,Coffee,0.9997,0.0048,alert,High beta activity detected; consider reducing caffeine intake and taking a short movement break.
+2.0,Coffee,1.0,0.0,alert,High beta activity detected; consider reducing caffeine intake and taking a short movement break.
+4.0,No_Actuation,0.9986,0.0152,alert,No active stimulus — consider introducing a calming olfactory or auditory cue.
+6.0,No_Actuation,0.9566,0.2577,alert,No active stimulus — consider introducing a calming olfactory or auditory cue.
+8.0,No_Actuation,0.9902,0.0796,alert,No active stimulus — consider introducing a calming olfactory or auditory cue.
+10.0,No_Actuation,1.0,0.0,alert,No active stimulus — consider introducing a calming olfactory or auditory cue.
+12.0,No_Actuation,0.7197,0.8561,alert,No active stimulus — consider introducing a calming olfactory or auditory cue.
+14.0,No_Actuation,0.5053,1.0012,alert,No active stimulus — consider introducing a calming olfactory or auditory cue.
+16.0,No_Actuation,0.9978,0.0234,alert,No active stimulus — consider introducing a calming olfactory or auditory cue.
+18.0,No_Actuation,0.9868,0.1015,alert,No active stimulus — consider introducing a calming olfactory or auditory cue.
